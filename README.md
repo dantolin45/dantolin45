@@ -1,6 +1,6 @@
 <h2>laburanding 🤓🤓</h2>
-### Hi 👋, Dante Insaurralde Viola
-#### programando!
+Hi 👋, Dante Insaurralde Viola
+programando!
 
 Abilities: MVC / REACT / JS / HTML / CSS/ Fullstack.net / MySql Server
 
