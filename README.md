@@ -23,9 +23,10 @@ Abilities: MVC / REACT / JS / HTML / CSS/ Fullstack.net / MySql Server
 
 </table>
 
+ Languages and Tools:
 
 <a href=https://github.com/dantolin45><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
-<a href=https://www.linkedin.com/in/https://linkedin.com/in/dante-insaurralde-viola-944393261> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>  </a>
+<a href=linkedin.com/in/dante-insaurralde-viola-944393261/> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>  </a>
 <a href=https://es.react.dev> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'></a>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'></a>
 <a href=https://nodejs.org/es> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='mysql' height='40'>
