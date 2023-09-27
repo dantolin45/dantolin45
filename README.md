@@ -5,7 +5,7 @@ programando!
 Abilities: MVC / REACT / JS / HTML / CSS/ Fullstack.net / MySql Server
 
 - 🔭 Working on e-Commerce for Argentinos Juniros 
-- 🌱 Actually learning React.js and JavaScript
+- 🌱 Learning React.js and JavaScript at the moment
 - 😄 pronouns: dantolin
 - he/him
 
