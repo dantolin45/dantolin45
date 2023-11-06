@@ -4,24 +4,10 @@ programando!
 
 Abilities: MVC / REACT / JS / HTML / CSS/ Fullstack.net / MySql Server
 
-- 🔭 Working on e-Commerce for Argentinos Juniros 
+- 🔭 Working on e-Commerce for Argentinos Juniors 
 - 🌱 Learning React.js and JavaScript at the moment
 - 😄 pronouns: dantolin
 - he/him
-
-<table>
-  <tbody>
-    <tr>
- <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=dantolin45&theme=dark&show_icons=true&hide_border=true"/>
-  </td> 
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantolin45&theme=dark&hide_border=true&layout=compact"/>
-  </td>
-  </tr>
-</tbody>
-
-</table>
 
  Languages and Tools:
 
