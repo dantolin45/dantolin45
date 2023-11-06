@@ -5,19 +5,9 @@ programando!
 Abilities: MVC / REACT / JS / HTML / CSS/ Fullstack.net / MySql Server
 
 - 🔭 Working on e-Commerce for Argentinos Juniors 
-- 🌱 Learning React.js and JavaScript at the moment
+- 🌱 Learning React.js and React Native at the moment
 - 😄 pronouns: dantolin
 - he/him
-
- Languages and Tools:
-
-<a href=https://github.com/dantolin45><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
-<a href=linkedin.com/in/dante-insaurralde-viola-944393261/> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>  </a>
-<a href=https://es.react.dev> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'></a>
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'></a>
-<a href=https://nodejs.org/es> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='mysql' height='40'>
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='csharp' height='40'>
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+ <img src="https://camo.githubusercontent.com/cda2bff49eb0cd388393e08dd91cc3cf461f095e387d3fdcb8648ab0418010aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270" alt=""> 
 
 
