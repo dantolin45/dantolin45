@@ -1,4 +1,4 @@
-<h2>DIV</h2>
+<h2>DIV - Dante Insaurralde Viola</h2>
 <h3 align="center" id="user-content-a-passionate-frontend-developer-from-argentina" dir="auto">Frontend Developer</h3>
 
 Working on : <a href="https://github.com/dantolin45/AAJJ">AAJJ</a>
